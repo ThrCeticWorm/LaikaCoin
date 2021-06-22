@@ -11,6 +11,6 @@
 -- 50% burned at launch. With a strong burn and 5% LIQ fee, diamond hands will be rewarded.
 
 - Liquidity pool tokens locked at launch (It's rug-proof)
-- Contract ownership renounced at launch (It's owned buy the community)
+- Contract ownership renounced at launch (It's owned by the community)
 
 Let's get this coin to 10,000x and get Laika back into to space!
